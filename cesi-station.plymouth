@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=cesi-station
+Description=Theme du splashscreen de la CESI Station
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/cesi-station-theme
+ScriptFile=/usr/share/plymouth/themes/cesi-station-theme/script
